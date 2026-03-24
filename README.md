@@ -21,6 +21,8 @@ Your job is to write the syntax correctly.
 
 **Task 2** — Write a class rule called `blue-text`
 - Change the text color to blue
+.
+}
 
 **Task 3** — Write a class rule called `big-border`
 - Add a border using: `3px solid black`

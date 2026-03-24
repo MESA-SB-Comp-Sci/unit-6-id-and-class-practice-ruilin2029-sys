@@ -8,28 +8,42 @@
    We tell you the name AND what goes inside.
    Your job: write the syntax correctly.
    ───────────────────────────────────────────── */
-
+ 
 /* Task 1: Write a CLASS rule called "pink-bg"
    It should change the background color to pink */
-
+.pink-bg {
+   background-color :  pink ;
+ }
 
 /* Task 2: Write a CLASS rule called "blue-text"
    It should change the text color to blue */
-
+.blue-text{
+   text:blue;
+}
 
 /* Task 3: Write a CLASS rule called "big-border"
    It should add a border — use: 3px solid black */
-
+.big-border{
+   border:3px;
+   boder-style:solid;
+   border-color:black;
+}
 
 /* Task 4: Write an ID rule called "main-title"
    It should change the background color to navy
    and the text color to white */
-
+#main-title{
+   background-color:navy;
+   color:white;
+}
 
 /* Task 5: Write an ID rule called "footer-text"
    It should change the text color to gray
    and the background color to black */
-
+#footer-text{
+   background-color: black;
+   color:gray
+}
 
 /* ─────────────────────────────────────────────
    PART 2 — Semi Guided
@@ -41,13 +55,22 @@
    ───────────────────────────────────────────── */
 
 /* Task 6: Write a CLASS rule called "highlight" */
-
+.highlight{
+   background-color: yellow;
+   color:white
+}
 
 /* Task 7: Write a CLASS rule called "list-style" */
-
+.list-style{
+   background-color: blue;
+   color:white;
+}
 
 /* Task 8: Write an ID rule called "page-heading" */
-
+#page-heading{
+   background-color: brown
+   color:pink;
+}
 
 /* ─────────────────────────────────────────────
    PART 3 — Open Ended
